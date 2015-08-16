@@ -1,0 +1,3 @@
+currently doing:
+1. R programming
+2. Introduction to data science
